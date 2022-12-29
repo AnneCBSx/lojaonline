@@ -8,7 +8,10 @@
     height: auto;
     width: auto;
 }   
-
+.bioclothes{
+    width: 180px;
+    height: 75px;
+}
 .logo{
     display: flex;
     flex-direction: row-reverse;
@@ -26,9 +29,20 @@
     flex-direction: row
 
 }
+.linha1{ 
+    height: 200%;
 
+}
+.hr2{
+    height: 200%;
+}
 
+.produtosimg{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 
+}
 
 
 .container{
@@ -47,8 +61,7 @@
 
 .quem-somos-images{
     display: flex;
-    position:fixed;
-   
+    
     width: 100px;
     height: 100px;
 }
