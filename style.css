@@ -1,0 +1,59 @@
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+ 
+    background-color: rgba(79, 96, 168, 1);
+    height: auto;
+    width: auto;
+}   
+
+.logo{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100px;
+    height: 100px;
+}
+
+.carousel{
+    width: 10px;
+    height: 5px;
+
+}
+.imgcarousel{
+    display: flex;
+    flex-direction: row
+
+}
+
+
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.qsomostexto{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+}
+
+.quem-somos-images{
+    display: flex;
+    position:fixed;
+   
+    width: 100px;
+    height: 100px;
+}
+
+
+footer{
+    background-color:rgba(79, 96, 168, 1) ;
+}
