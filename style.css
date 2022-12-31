@@ -3,6 +3,7 @@
 .header{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
  
     background-color: rgba(79, 96, 168, 1);
     height: auto;
@@ -13,10 +14,6 @@
     height: 75px;
     display: center;
     flex-direction: row;
-}
-.navbar-nav{
-    color: white;
-
 }
 
 .logo{
@@ -48,6 +45,9 @@
     align-items:flex-end;
 
 }
+.imgtXt1{
+
+}
 
 
 .container{
@@ -72,6 +72,9 @@
     width: 100px;
     height: 100px;
 }
+
+
+
 
 
 footer{
