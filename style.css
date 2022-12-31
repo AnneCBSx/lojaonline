@@ -24,11 +24,8 @@
     height: 5px;
 
 }
-.imgcarousel{
-    display: flex;
-    flex-direction: row
 
-}
+
 .linha1{ 
     height: 200%;
 
